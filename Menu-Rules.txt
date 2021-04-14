@@ -1,3 +1,9 @@
 use the latest price list
 use rhs format style ....
 
+pricing should be in US dollars
+
+use multiple columns
+
+    Description              Notes                 Price
+
