@@ -1,0 +1,14 @@
+this is the second update from andy-clone
+
+
+this time I manually change user id like this:
+
+  git config --local user.name "AndySchimm"
+  git config --local user.email "andy92@yahoo.com"
+
+then I run 
+
+  git add andy-1.txt
+  git commit -m"....."
+  git push -u origin
+
