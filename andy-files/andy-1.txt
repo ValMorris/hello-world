@@ -12,3 +12,8 @@ then I run
   git commit -m"....."
   git push -u origin
 
+5/5/2021
+
+  this update/ this file on main branch only
+  update from server, andy doesn't see this file on andy-branch
+  
